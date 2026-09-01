@@ -28,6 +28,6 @@ if not finnes:
         bruker.write(ettern + '\n')
         bruker.write(eposten + '\n')
 
-    print('du er registrert som ny')
-    print('hello world from python')
-    print('this is Huthaifa')
+    print('du er registrert som ny bruker')
+
+    
