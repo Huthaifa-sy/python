@@ -30,3 +30,4 @@ if not finnes:
 
     print('du er registrert som ny')
     print('hello world from python')
+    print('this is Huthaifa')
