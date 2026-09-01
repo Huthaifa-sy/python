@@ -29,3 +29,4 @@ if not finnes:
         bruker.write(eposten + '\n')
 
     print('du er registrert som ny')
+    print('hello world from python')
